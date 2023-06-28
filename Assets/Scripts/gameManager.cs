@@ -24,9 +24,7 @@ public class gameManager : MonoBehaviour
     void Awake()
     {
         totalText.text = "/ " + totalCount;
-        
     }
-
 
     public void GetItem(int count)
     {
